@@ -1,0 +1,7 @@
+[build]
+  command = "ng build --prod"
+  publish = "dist/ng-serverless-ecommerce"
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
