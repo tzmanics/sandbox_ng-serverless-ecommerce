@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ng-serverless-ecommerce"
+  "defaultProject": "ng-serverless-ecommerce",
+  "cli": {
+    "analytics": "2d212368-69dc-42d1-b9a9-5659c7852fd3"
+  }
 }
