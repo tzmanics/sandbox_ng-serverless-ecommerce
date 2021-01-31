@@ -1,6 +1,6 @@
 [build]
-  command = "ng build --prod"
-  publish = "dist/ng-serverless-ecommerce"
+  command = "npm run prerender"
+  publish = "dist/ng-serverless-ecommerce/browser"
 [[redirects]]
   from = "/*"
   to = "/index.html"
